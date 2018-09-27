@@ -1,0 +1,17 @@
+#coreContainer {
+	padding-left: 50px;
+}
+
+#bottomContainer {
+	position: absolute;
+	bottom: 50;
+	padding-left: 50px;
+}
+
+body {
+	background-color: magenta;
+	border-style: dotted;
+	color: cyan;
+	font-size: 30pt;
+	font-family: "Console", Console, Monospace;
+}
